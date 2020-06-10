@@ -35,7 +35,7 @@ public class User {
 
 
     public static void delete(){
-        System.out.println("xxxxx");
+        System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
     }
 
 }
