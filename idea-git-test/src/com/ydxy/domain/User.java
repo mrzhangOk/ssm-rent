@@ -6,6 +6,11 @@ public class User {
         System.out.println("sec hello");
     }
 
+    public static void addUser() {
+        System.out.println("hello");
+        System.out.println("sec hello");
+    }
+
 
 
 }
