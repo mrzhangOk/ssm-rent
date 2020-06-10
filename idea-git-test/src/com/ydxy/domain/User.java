@@ -29,5 +29,10 @@ public class User {
     }
 
 
+	public static void update(){
+        System.out.println("xxxxx");
+    }
+
+
 
 }
