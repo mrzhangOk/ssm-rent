@@ -9,5 +9,8 @@ public class User {
     public static void test(){
         System.out.println("xxxxx");
     }
+    public static void test2(){
+        System.out.println("xxxxx");
+    }
 
 }
