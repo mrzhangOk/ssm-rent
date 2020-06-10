@@ -28,6 +28,12 @@ public class User {
         System.out.println("xxxxx");
     }
 
+
+	public static void update(){
+        System.out.println("xxxxx");
+    }
+
+
     public static void delete(){
         System.out.println("xxxxx");
     }
