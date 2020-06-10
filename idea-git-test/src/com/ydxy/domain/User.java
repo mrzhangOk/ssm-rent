@@ -5,4 +5,9 @@ public class User {
         System.out.println("hello");
         System.out.println("sec hello");
     }
+
+    public static void test(){
+        System.out.println("xxxxx");
+    }
+
 }
