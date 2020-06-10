@@ -6,10 +6,6 @@ public class User {
         System.out.println("sec hello");
     }
 
-    public static void blue(String[] args) {
-        System.out.println("hello");
-        System.out.println("sec hello");
-    }
 
 
 }
