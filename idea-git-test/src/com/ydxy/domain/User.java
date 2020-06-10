@@ -13,4 +13,7 @@ public class User {
         System.out.println("xxxxx");
     }
 
+    public static void test3(){
+        System.out.println("xxxxx");
+    }
 }
