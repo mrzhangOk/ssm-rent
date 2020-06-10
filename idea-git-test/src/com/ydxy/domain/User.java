@@ -40,4 +40,9 @@ public class User {
     public static void find(){
         System.out.println("xxxxx");
     }
+
+
+    public static void yyy(){
+        System.out.println("xxxxx");
+    }
 }
