@@ -6,43 +6,6 @@ public class User {
         System.out.println("sec hello");
     }
 
-    public static void test(){
-        System.out.println("xxxxx");
-    }
-    public static void test2(){
-        System.out.println("xxxxx");
-    }
-    
-     public static void test4(){
-        System.out.println("xxxxx");
-    }
-     public static void test5(){
-        System.out.println("xxxxx");
-    }
-
-    public static void test3(){
-        System.out.println("xxxxx");
-    }
-	
-	 public static void add(){
-        System.out.println("xxxxx");
-    }
 
 
-	public static void update(){
-        System.out.println("xxxxx");
-    }
-
-
-    public static void delete(){
-        System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
-    }
-    public static void find(){
-        System.out.println("xxxxx");
-    }
-
-
-    public static void yyy(){
-        System.out.println("xxxxx");
-    }
 }
