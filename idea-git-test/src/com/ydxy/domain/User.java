@@ -23,8 +23,7 @@ public class User {
     public static void test3(){
         System.out.println("xxxxx");
     }
-	 public static void add(){
-        System.out.println("add");
-    }
+
+
 
 }
