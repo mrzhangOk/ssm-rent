@@ -20,4 +20,8 @@ public class User {
     public static void test3(){
         System.out.println("xxxxx");
     }
+
+    public static void test5(){
+        System.out.println("xxxxx");
+    }
 }
