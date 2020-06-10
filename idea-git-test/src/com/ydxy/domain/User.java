@@ -24,7 +24,5 @@ public class User {
         System.out.println("xxxxx");
     }
 
-    public static void test5(){
-        System.out.println("xxxxx");
-    }
+
 }
